@@ -6,8 +6,8 @@ console.clear();
 //todo>     - Spielfeld erstellen ~~> 6x4 / 4x6
 //todo>     - Katen flippen ~~> eventListener("click")
 //todo>     - Flip-Effekt   ~~> .toggle("div")
-//todo>     - Paar gefunden ~~> .flipped/
-//todo>     - Paar falsch ~~> .remove("CLASS")/
+//todo>     - Paar gefunden ~~> .flipped
+//todo>     - Paar falsch ~~> .remove("CLASS")
 
 //* ------------------------------------------------------------------------------- Selectors
 
